@@ -1,0 +1,8 @@
+{
+  "name": "JARVIS X",
+  "description": "An immersive AI operating workstation featuring PDF analysis, tutor environments, meeting transcripts, task mapping, career prep, and cinematic analytics.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
